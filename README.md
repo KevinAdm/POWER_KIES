@@ -1,6 +1,6 @@
 # POWER_KIES
-##EL PODER DE ELEGIR
-###El nombre de la empresa es POWER KIES, que hace referencia a “el poder de
+## EL PODER DE ELEGIR
+El nombre de la empresa es POWER KIES, que hace referencia a “el poder de
 elegir” ya que la elección de la compañía de mercadotecnia adecuada en el
 momento idóneo hará que su producto o servicio crezca en contrataciones y/o
 ventas y usted obtenga muchas ganancias y se posicione muy por encima de la
